@@ -1,0 +1,4 @@
+source,device_time_ms,elapsed_s,temperature_c,pressure_mbar,baseline_mbar,pressure_corrected_mbar
+simulated,5000,0.000,23.5000,10.0000,10.000000,0.000000
+simulated,5100,0.100,23.5000,12.0000,10.000000,2.000000
+simulated,5200,0.200,23.5000,9.0000,10.000000,-1.000000
